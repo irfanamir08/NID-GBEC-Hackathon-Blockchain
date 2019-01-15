@@ -10,3 +10,5 @@ Omniscient is a tracker that uses Blockchain, AI and IoT to overcome security an
 - Team Member 3 : shfqmn prof.shafiq@gmail.com (Backend)
 - Team Member 4 : HaziqSuhaimi haziqisme93@gmail.com (IoT)
 - Team Member 5 : izzatamar izzatamar95@gmail.com (Blockchain)
+
+###### December 2018
